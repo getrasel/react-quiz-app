@@ -1,0 +1,35 @@
+@import "tailwindcss";
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #222b28;
+  background-color: #f7fffd;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: inherit;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+.bgcolor {
+  background-color: #6abda9;
+}
+button {
+  border-radius: 6px;
+  font-size: 18px;
+  font-weight: 500;
+  border: 2px solid #6abda9;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}

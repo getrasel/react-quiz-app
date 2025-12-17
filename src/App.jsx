@@ -1,4 +1,4 @@
-import Question from "./components/question";
+import Question from "./question";
 
 import "./index.css";
 

@@ -1,4 +1,4 @@
-import Question from "./component/question";
+import Question from "./components/question";
 import "./index.css";
 
 function App() {
